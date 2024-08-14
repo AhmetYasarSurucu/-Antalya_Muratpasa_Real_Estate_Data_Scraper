@@ -13,7 +13,7 @@ for i in range(1, 115):
     # Web sayfasının URL'si
     adres = f'https://www.hepsiemlak.com/muratpasa-satilik/daire?page={i}'
 
-    # Tarayıcı gibi davranmak için kullanıcı ajanı başlığı
+    # Tarayıcı gibi davranmak için kullanıcı başlığı
     user_agents = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
